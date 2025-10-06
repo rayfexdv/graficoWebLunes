@@ -1,0 +1,28 @@
+.textoLargo{
+    font-size: 70px;
+}
+.fondoNaranja{
+    background-color: orangered;
+}
+
+body{
+    background-color: rgb(164, 0, 0);
+    background-color: #ccc;
+    color: brown;
+    text-align: center;
+}
+p{
+    font-size: 10px;
+    text-shadow: 0 0 15px black;
+    width: 25%;
+    display: inline-block;
+}
+.derechita{
+    text-align: right;
+}
+
+img{
+    filter: drop-shadow(-50px -15px 100px violet);
+    box-shadow: 0 0 15px black;
+
+}

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'artista';
+    src: url('fuentes/artista/linkinpark.ttf') format('truetype');
+}
+
+h2{
+    font-family: 'artista';
+    
+}
+
+    
+
+
+@font-face {
+    font-family: 'lato';
+    src: url('fuentes/lato/Lato-Regular.ttf') format('truetype'), 
+    url('fuentes/lato/Lato-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'scary_halloween_fontbold';
+    src: url('fuentes/scary/scary_halloween_font-webfont.woff2') format('woff2'),
+         url('fuentes/scary/scary_halloween_font-webfont.woff') format('woff'),
+         url('fuentes/scary/Scary\ Halloween\ Font.ttf Halloween\ Font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    background-color: lightgoldenrodyellow;
+}
+p{
+    font-family: 'scary_halloween_fontbold';
+    color: red;
+    font-size: 3rem;
+    text-shadow: rgb(46, 1, 1) 2px 3px 3px;
+}
+#gFonts{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    font-family: 'lato';
+}
